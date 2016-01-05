@@ -1,0 +1,44 @@
+body {
+    background: url("../images/bg.png") repeat-y;
+        -moz-background-size: 100%; 
+        -webkit-background-size: 100%; 
+        -o-background-size: 100%; 
+        background-size: 100%; 
+        font-family: Geneva, Arial, Helvetica, sans-serif;
+}
+
+#container{
+    width: 60%;
+    margin: auto;
+    
+}
+
+header{
+    color: #ffffff;
+    font-size: 150%;
+    margin-bottom: 50px;
+    text-align: center;
+}
+
+
+article{
+    text-align: justify;
+    background-color: #F8F7F2;
+    border: 1px solid #666;
+    padding: 30px;
+}
+
+p{
+    text-indent: 20px;
+}
+
+iframe{
+    margin-top: 30px;
+    width: 100%;
+    height: 300px;
+    background-color: #F8F7F2;
+    border: 1px solid #666;;
+    margin-bottom: 100px;
+}
+
+ 

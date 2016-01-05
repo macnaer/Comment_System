@@ -1,0 +1,14 @@
+#menu {
+    list-style: none;
+     float: right; 
+     padding: 0; 
+     margin-top: 3px;
+}
+
+#menu li {
+    float: left;
+    display: block;
+    text-decoration: none;
+    padding: 3px 7px 5px
+}
+
